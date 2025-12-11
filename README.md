@@ -1,4 +1,4 @@
-# Airbnb Listings for Oakland, CA EDA Report
+# Airbnb EDA Report
 **Data Scientist:** Jamila Lanier
 **Files:** 
 
