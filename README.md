@@ -8,5 +8,5 @@ Exploratory Data Analysis of Airbnb listings in Oakland, CA, highlighting pricin
 # View the report
 - PDF:
 
-  ##Reproducible work
+  ## Reproducible work
   http://localhost:8889/notebooks/Desktop%2Fairbnb-eda%2Fnotebooks%2FEDA_Oakland_Airbnb_Listings.ipynb 
